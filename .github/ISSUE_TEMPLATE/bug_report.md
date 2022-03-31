@@ -25,8 +25,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. Monterey]
- - Arch [e.g. Intel, M1]
- - App version [e.g. v.0.1.0]
+ - Arch: [e.g. Intel, M1]
+ - App: version [e.g. v.0.1.0]
 
 **Additional context**
 Add any other context about the problem here.
