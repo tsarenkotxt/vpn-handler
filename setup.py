@@ -1,7 +1,7 @@
 from setuptools import setup
 
 APP = ['vpn_handler.py']
-APP_NAME = "VPN Handler"
+APP_NAME = "VPN Handler (intel)"
 DATA_FILES = ['settings.json']
 OPTIONS = {
     'argv_emulation': True,
