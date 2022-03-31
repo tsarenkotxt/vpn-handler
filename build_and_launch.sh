@@ -1,6 +1,6 @@
 #!/bin/bash
 
-app_name="VPN Handler.app"
+app_name="VPN Handler (arm).app"
 
 #  builds the application from scratch and launches
 rm -r -f build && \

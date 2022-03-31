@@ -19,7 +19,7 @@ class VpnHandler:
 
     def __init__(self):
         self.config = {
-            "app_name": "VPN Handler",
+            "app_name": "VPN Handler (arm)",
             "default_title": "🔘",
             "vpn_active_title": "👽"
         }
