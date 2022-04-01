@@ -2,6 +2,7 @@
 
 [![Gitter](https://img.shields.io/badge/chat-on%20Gitter-blue)](https://gitter.im/vpn-handler/vpn-handler)
 [![Releases](https://img.shields.io/github/v/release/tsarenkotxt/vpn-handler)](https://github.com/tsarenkotxt/vpn-handler/releases)
+[![Downloads](https://img.shields.io/github/downloads/tsarenkotxt/vpn-handler/total?color=blue)](https://github.com/tsarenkotxt/vpn-handler/releases)
 [![OS](https://img.shields.io/badge/os-macOS-blue)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/arch-Intel-blue)](https://en.wikipedia.org/wiki/Apple%E2%80%93Intel_architecture)
 [![OS](https://img.shields.io/badge/arch-ARM-blue)](https://en.wikipedia.org/wiki/Apple_M1)
