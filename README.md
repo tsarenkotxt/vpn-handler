@@ -30,7 +30,7 @@ The `VPN Handler` is an application for handling the build-in VPN in the macOS:
 
 [^1]: [Notifications & Focus Preferences](https://support.apple.com/en-gb/guide/mac-help/mh40583/mac)
 
-![your-pic-caption-name](readme/screenshot.png)
+![your-pic-caption-name](readme/example.gif)
 
 ## White paper 📃
 
