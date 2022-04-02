@@ -10,7 +10,7 @@
 
 ## What is it? 🤔
 
-The `VPN Handler` is an application for handling the build-in VPN in the macOS:
+The `VPN Handler` is an application for handling the built-in VPN in the macOS:
    - auto connect.    
    - auto reconnect.
    - multi-user macOS environment & VPN management.
